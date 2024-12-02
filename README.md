@@ -8,7 +8,7 @@ Coming soon
 
 * [Working with data](#working-with-data-hammer)
   * [Manipulating data](#manipulating-data)
-  * [Reading and parsing JSON data](#reading-and-parsing-json-sata)
+  * [Reading and parsing JSON data](#reading-and-parsing-json-data)
   * [Loading tabular data sources](#loading-tabular-data-sources)
 * [Data visualisation](#data-visualisation-bar_chart)
   * [Popular plotting libraries](#popular-plotting-libraries)
@@ -21,7 +21,7 @@ Coming soon
   * [Notebook environments](#notebook-environments)
   * [Online playgrounds](#online-playgrounds)
 * [Libraries for data science](#libraries-for-data-science-bulb)
-  * [Statistics & Probabilities](#statistics-&-Probabilities)
+  * [Statistics and Probabilities](#statistics-and-probabilities)
   * [Natural language processing](#natural-language-processing)
   * [Deep learning](#deep-learning) 
 * [Basics of web development for data practitioners](#basics-of-web-development-for-data-practitioners-computer)
@@ -92,7 +92,7 @@ Coming soon
 
 # **Libraries for data science** :bulb:
 
-#### Statistics & Probabilities
+#### Statistics and Probabilities
 * [Talisman](https://yomguithereal.github.io/talisman/)
 
 #### Natural language processing
@@ -119,7 +119,9 @@ Minimalist CSS frameworks
 #### Static site generators
 * [Gatsby](https://www.gatsbyjs.com/)
 * [Docusaurus](https://docusaurus.io/)
+
 Non JavaScript alternatives
+
 * [HydePHP](https://hydephp.com/)
 * [Hugo](https://gohugo.io/)
 * [Jekyll](https://jekyllrb.com/)
@@ -127,7 +129,7 @@ Non JavaScript alternatives
 #### Hosting solutions
 Coming soon
 
-#### Setting up a web server
+#### Creating a web server
 * [Node.js](https://nodejs.org/en)
 * [Bun.js](https://bun.sh/)
 
