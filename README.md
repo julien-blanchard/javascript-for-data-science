@@ -59,7 +59,7 @@ Coming soon
 * [Visprex](https://github.com/visprex/visprex)
 * [Evidence](https://github.com/evidence-dev/evidence)
 
-# **Data prototyping and exploration** :notebook:
+# **Prototyping** :notebook:
 
 #### Notebook environments
 * [Starboard](https://starboard.gg/)
