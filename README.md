@@ -7,13 +7,13 @@ Coming soon
 # **Table of content** :bookmark_tabs:
 
 1. [Working with data](#working-with-data-hammer)
-2. [Data visualisation](#data-visualisation)
-3. [Business Intelligence and data exploration](#business-intelligence-and-data-exploration)
-4. [Prototyping](#prototyping)
-5. [Libraries for data science](#libraries-for-data-science)
-6. [Basics of web development for data practitioners](#basics-of-web-development-for-data-practitioners)
-7. [Further reading](#further-reading)
-8. [Articles](#articles)
+2. [Data visualisation](#data-visualisation-bar_chart)
+3. [Business Intelligence and data exploration](#business-intelligence-and-data-exploration-mag)
+4. [Prototyping](#prototyping-notebook)
+5. [Libraries for data science](#libraries-for-data-science-bulb)
+6. [Basics of web development for data practitioners](#basics-of-web-development-for-data-practitioners-computer)
+7. [Further reading](#further-reading-book)
+8. [Articles](#articles-pencil)
 
 # **Working with data** :hammer:
 
