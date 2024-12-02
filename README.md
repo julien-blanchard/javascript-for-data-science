@@ -6,7 +6,7 @@ Coming soon
 
 # **Table of content** :bookmark_tabs:
 
-1. [Working with data](#working-with-data)
+1. [Working with data](#working-with-data-hammer)
 2. [Data visualisation](#data-visualisation)
 3. [Business Intelligence and data exploration](#business-intelligence-and-data-exploration)
 4. [Prototyping](#prototyping)
