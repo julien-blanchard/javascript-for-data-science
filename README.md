@@ -2,7 +2,12 @@
 
 # **JavaScript for Data Analysts & Data Scientists**
 
-Coming soon
+While data science is primarily concerned with extracting insights from data, a solid understanding of web development technologies like *JavaScript*, *html*, and *css* can significantly enhance your capabilities and career prospects.
+
+What *JavaScript* is particularly good for:
+
+1.  Enhanced data visualization and storytelling (interactive visualizations, custom dashboards)
+2.  Data-driven web applications (web Scraping, web apps, real-time data)
 
 # **Table of content** :bookmark_tabs:
 
