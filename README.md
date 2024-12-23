@@ -43,6 +43,7 @@ What *JavaScript* is particularly good for:
 #### Manipulating data
 * [Arquero](https://github.com/uwdata/arquero)
 * [Danfo](https://danfo.jsdata.org/)
+* [Polars](https://github.com/pola-rs/nodejs-polars)
 
 #### Reading and parsing JSON data
 * [D3](https://d3js.org/)
@@ -72,7 +73,7 @@ What *JavaScript* is particularly good for:
 * [Cytoscape](https://js.cytoscape.org/)
 * [Sigma](https://www.sigmajs.org/)
 
-# **Business Intelligence and data exploration** :mag:
+# **Business intelligence and data exploration** :mag:
 
 #### Building data apps and dashboards
 * [Observable Framework](https://observablehq.com/framework/)
@@ -132,7 +133,7 @@ Non JavaScript alternatives
 * [Jekyll](https://jekyllrb.com/)
 
 #### Hosting solutions
-Coming soon
+* [GitHub Pages](https://pages.github.com/)
 
 #### Creating a web server
 * [Node.js](https://nodejs.org/en)
@@ -147,6 +148,6 @@ Coming soon
 
 Coming soon
 
-# **Articles** :pencil:
+# **Resources** :pencil:
 
 Coming soon
